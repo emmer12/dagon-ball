@@ -407,14 +407,11 @@ particlesJS("particles-js", {
     skrollr.init({
       forceHeight: false
     });
-  
-    
+
     });
+ 
 
 })(jQuery);
-
-
-
 
 
 
