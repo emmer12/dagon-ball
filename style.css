@@ -1786,9 +1786,9 @@ a.gradient-btn {
   color: #fff;
   text-transform: uppercase;
   font-weight: 700;
-  background: -webkit-linear-gradient(right,#3396bd,#93e4ff);
+  background: -webkit-linear-gradient(right,#6e119d,#ef774f);
   padding: 7px 17px;
-  border-radius: 5px;
+  /* border-radius: 5px; */
   position: relative;
   z-index: 2;
   text-align: center;
@@ -1799,8 +1799,8 @@ a.gradient-btn:after {
   position: absolute;
   left: 0;
   top: 0;
+  background: -webkit-linear-gradient(right,#ef774f,#6e119d);
   content: "";
-  background: -webkit-linear-gradient(right,#3987ae,#3396bd);
   height: 100%;
   width: 100%;
   z-index: -1;
